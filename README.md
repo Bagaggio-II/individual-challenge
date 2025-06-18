@@ -37,7 +37,19 @@ Desenvolver uma **API RESTful com operações de CRUD (Create, Read, Update, Del
 
 ## ⏱️ Tempo Estimado
 
-Você terá até **2 dias** para realizar o desafio. Use o tempo com sabedoria: priorize um CRUD funcional e bem estruturado antes de pensar em melhorias extras.
+Você terá até **2 dias** para realizar o desafio.
+
+Use o tempo com sabedoria: priorize um CRUD funcional e bem estruturado antes de pensar em melhorias extras.
+
+---
+
+## 📦 Formas de Entrega
+
+O projeto deve ser publicado em um **repositório público no GitHub**.
+
+Após a finalização, o link do repositório deve ser enviado para o e-mail informado durante o processo seletivo.
+
+> Não é necessário realizar o deploy da aplicação, mas isso será considerado um diferencial positivo na avaliação.
 
 ---
 
